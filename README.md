@@ -4,18 +4,17 @@ Snake is a genre of action video games where the player maneuvers the end of a g
 Running the Code 
 
 Download the Repository:
+- Go to the GitHub page of the repository.
+- Click on the green "Code" button.
+- Select "Download ZIP."
 
-Go to the GitHub page of the repository.
-Click on the green "Code" button.
-Select "Download ZIP."
 Extract the ZIP File:
+- Locate the downloaded ZIP file on your computer.
+- Right-click on the file and select "Extract All..." (or use a similar option).
 
-Locate the downloaded ZIP file on your computer.
-Right-click on the file and select "Extract All..." (or use a similar option).
 Run the Pong Game:
-
-Navigate to the extracted folder.
-Compile and run the Java files as you would normally in your IDE or command prompt.
+- Navigate to the extracted folder.
+- Compile and run the Java files as you would normally in your IDE or command prompt.
 
 
 
